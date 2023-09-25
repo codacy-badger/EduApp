@@ -1,5 +1,7 @@
 # EduApp README
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f68e723f2456440b9476eeda6409c3f6)](https://app.codacy.com/gh/lachlankitchen/EduApp?utm_source=github.com&utm_medium=referral&utm_content=lachlankitchen/EduApp&utm_campaign=Badge_Grade)
+
 ## Description
 
 EduApp is a powerful and intuitive mobile app designed to help students plan their academic journey and navigate through the complexities of course selection. With a user-friendly interface and smart features, EduApp empowers students to effortlessly map out their educational path, select majors and papers, and visualise their progress.
